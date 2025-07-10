@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035170954270",
+    "project_id": "mahatati-74c8a",
+    "storage_bucket": "mahatati-74c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035170954270:android:c9f8669579fc123e0e420f",
+        "android_client_info": {
+          "package_name": "com.mahatati.maher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vwtZO5vqE7Ttf9oAgUu4ewLN-Tras_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
